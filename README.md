@@ -123,6 +123,6 @@ http://localhost:3000
 * Difficulty-level customization.
 * Enhanced assessment insights.
 
-## 👥 Academic Project
+##  Academic Project
 
 This project was developed as an academic initiative to demonstrate the integration of web technologies, adaptive assessment concepts, and cloud database services to build an intelligent IQ evaluation platform.
